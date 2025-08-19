@@ -1,7 +1,7 @@
 # zx_bits
 Smaller projects, output or conclusions not worth their own repo
 
-
+zx_multisound - fork of the 1MB firmware, addressing clicking issues in TS(FM) mode based on an older firmware as GS didn't work for me with the current version - see https://github.com/UzixLS/zx-multisound/issues/11 & https://github.com/UzixLS/zx-multisound/issues/10  
 dkjoyprg3.tap - alternative programmer for DK'Tronics programmable joystick interface made in Boriel BASIC. 48K only, OTLA-ing works on real hardware (but somehow fails in Fuse).  
 dkjoyprg5.tap - As above, but with additional, optional Reset or testmode after programming. Includes Easter Egg. Slightly re-arranged layout.  
 dkjoyprg6.tap - As above, but now shows active key of the keyboard matrix in testmode.  
